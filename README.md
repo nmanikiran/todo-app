@@ -1,10 +1,15 @@
 # Todo App in React
 
 ## One Todo App… 5 Different React Flavors
+
 1️⃣ useState → The “quick & simple” way, until your state tree grows.
+
 2️⃣ useReducer → The “structured updates” way, but at what complexity cost?
+
 3️⃣ useContext → The “share it without prop-drilling” way, but is it really “global state”?
+
 4️⃣ useSyncExternalStore → The “official React 18 secret sauce” way
+
 5️⃣ External Store (Zustand/Redux) → scalable and powerful… but worth it for a Todo app?
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
